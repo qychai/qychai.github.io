@@ -22,6 +22,7 @@ repository               : "qychai/qychai.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  bio              : "PhD candidate in Economics"
   employer         : "Boston University"
   email            : "qchai@bu.edu" 
 
