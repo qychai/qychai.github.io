@@ -21,7 +21,22 @@ Working Papers
 
 Joint with Costas Cavounidis, Kevin Lang, and Raghav Malhotra. Under submission
 
-Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.
+<a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
+
+<div id="abstractContent" style="display:none;">
+  <p>Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</p>
+</div>
+
+<script>
+function toggleAbstract() {
+  var abstract = document.getElementById('abstractContent');
+  if (abstract.style.display === 'none' || abstract.style.display === '') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>
 
 [NBER Working Paper No.31743](https://www.nber.org/papers/w31743)
 
