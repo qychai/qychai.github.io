@@ -27,5 +27,6 @@ Publications
 experiment.” The World Economy, 42(6) (2019): 1654-1672. (with Huiyao Chen and Changyuan
 Luo)
 
-“US Outward FDI: Is China a Special Host Country?” Journal of Financial Research (in Chinese),
+
+[“US Outward FDI: Is China a Special Host Country?”](https://qychai.github.io/PersonalWebsite/paper2_USFDItoCN.pdf) Journal of Financial Research (in Chinese),
 462(12) (2018): 72-90. (with Changyuan Luo and Chengxue Mao)
