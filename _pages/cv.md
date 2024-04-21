@@ -44,15 +44,46 @@ function toggleAbstract() {
 
 Joint with Shiyi Sun and Yuan Zhang
 
-The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like ``Missing Girls'' and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.
+<a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
+
+<div id="abstractContent" style="display:none;">
+  <p>The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like ``Missing Girls'' and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.</p>
+</div>
+
+<script>
+function toggleAbstract() {
+  var abstract = document.getElementById('abstractContent');
+  if (abstract.style.display === 'none' || abstract.style.display === '') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>
+
 
 Presentations: SEHO (2024), NBER conference on Fertility and Declining Population Growth in High-Income Countries (2024)
 
 **The World Bank and China:  Comparing the Impacts of Their Development Projects in Africa**
 
 Joint with Zhongyi Tang. Under submission
+<a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-While growing literature has documented the distinct characteristics of aid projects from China and traditional donors, there remain gaps in understanding their differences in aid effectiveness. To fill this gap, this paper compares the impacts of Chinese and World Bank development projects on African local economies. Leveraging detailed, geocoded project data and a stacked difference-in-differences identification strategy, we find that Chinese infrastructure projects significantly increase nighttime light in the recipient regions, and the effects persist over time, while World Bank projects show no significant impact. Factors highlighted in the aid effectiveness literature, such as location and project-specific characteristics, could not fully explain the differences in project impacts. Furthermore, we rule out three potential mechanisms behind these differences: complementarity effects from follow-up projects, political favoritism, and implementation by Chinese companies. Finally, by utilizing Demographic and Health Surveys (DHS) data, we establish that both World Bank and Chinese infrastructure projects positively influence women's education attainment. 
+<div id="abstractContent" style="display:none;">
+  <p>While growing literature has documented the distinct characteristics of aid projects from China and traditional donors, there remain gaps in understanding their differences in aid effectiveness. To fill this gap, this paper compares the impacts of Chinese and World Bank development projects on African local economies. Leveraging detailed, geocoded project data and a stacked difference-in-differences identification strategy, we find that Chinese infrastructure projects significantly increase nighttime light in the recipient regions, and the effects persist over time, while World Bank projects show no significant impact. Factors highlighted in the aid effectiveness literature, such as location and project-specific characteristics, could not fully explain the differences in project impacts. Furthermore, we rule out three potential mechanisms behind these differences: complementarity effects from follow-up projects, political favoritism, and implementation by Chinese companies. Finally, by utilizing Demographic and Health Surveys (DHS) data, we establish that both World Bank and Chinese infrastructure projects positively influence women's education attainment. </p>
+</div>
+
+<script>
+function toggleAbstract() {
+  var abstract = document.getElementById('abstractContent');
+  if (abstract.style.display === 'none' || abstract.style.display === '') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>
+
 Presentations: NEUDC (2023), AMES (2023), PEA(2023)
   
 Selected Work in Progress
@@ -60,12 +91,41 @@ Selected Work in Progress
 **Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development**
 
 Joint with Fei Teng and Yuan Zhang
+<a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.
+<div id="abstractContent" style="display:none;">
+  <p>This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</p>
+</div>
+
+<script>
+function toggleAbstract() {
+  var abstract = document.getElementById('abstractContent');
+  if (abstract.style.display === 'none' || abstract.style.display === '') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>
+
 
 **Siblings and Migration**
+<a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.
+<div id="abstractContent" style="display:none;">
+  <p>This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</p>
+</div>
+
+<script>
+function toggleAbstract() {
+  var abstract = document.getElementById('abstractContent');
+  if (abstract.style.display === 'none' || abstract.style.display === '') {
+    abstract.style.display = 'block';
+  } else {
+    abstract.style.display = 'none';
+  }
+}
+</script>
 
 
 Publications
