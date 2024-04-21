@@ -68,9 +68,9 @@ Selected Work in Progress
   <p>This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</p>
 </div>
 
-<p style="margin-top: 20px; margin-bottom: 20px;">**Siblings and Migration**
+**Siblings and Migration**
 
-<a href="javascript:void(0);" onclick="toggleAbstract('abstract5')">Abstract</a></p>
+<a href="javascript:void(0);" onclick="toggleAbstract('abstract5')">Abstract</a>
 
 <div id="abstract5" style="display:none;">
   <p>This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</p>
