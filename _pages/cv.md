@@ -20,10 +20,9 @@ function toggleAbstract(abstractId) {
 }
 </script>
 
-/* Changes the font size and opacity of an element with an ID */
-#special-text {
-    font-size: 12px; /* Specific text size */
-    opacity: 0.8; /* 80% transparent */
+p {
+    margin-top: 20px; /* Space above the paragraph */
+    margin-bottom: 20px; /* Space below the paragraph */
 }
 
 Job Market Paper
@@ -34,7 +33,7 @@ Intergenerational persistence is a well-documented phenomenon, yet the underlyin
 
 Working Papers
 ======
-**Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra)
+**Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra) [NBER Working Paper No.31743](https://www.nber.org/papers/w31743)
 
 Under submission
 <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">Abstract</a>
@@ -42,8 +41,6 @@ Under submission
 <div id="abstract1" style="display:none;">
   <p>Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</p>
 </div>
-
-[NBER Working Paper No.31743](https://www.nber.org/papers/w31743)
 
 **Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China** (with Shiyi Sun and Yuan Zhang)
 
