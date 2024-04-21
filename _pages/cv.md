@@ -17,10 +17,8 @@ Intergenerational persistence is a well-documented phenomenon, yet the underlyin
 
 Working Papers
 ======
-**Obsolescence Rents: Teamsters, Truckers, and Impending Innovations**
-
-Joint with Costas Cavounidis, Kevin Lang, and Raghav Malhotra. Under submission
-
+**Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra)
+Under submission
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
 <div id="abstract1" style="display:none;">
@@ -40,9 +38,7 @@ function toggleAbstract() {
 
 [NBER Working Paper No.31743](https://www.nber.org/papers/w31743)
 
-**Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China**
-
-Joint with Shiyi Sun and Yuan Zhang
+**Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China** (with Shiyi Sun and Yuan Zhang)
 
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
@@ -64,9 +60,8 @@ function toggleAbstract() {
 
 Presentations: SEHO (2024), NBER conference on Fertility and Declining Population Growth in High-Income Countries (2024)
 
-**The World Bank and China:  Comparing the Impacts of Their Development Projects in Africa**
-
-Joint with Zhongyi Tang. Under submission
+**The World Bank and China:  Comparing the Impacts of Their Development Projects in Africa** (with Zhongyi Tang)
+Under submission
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
 <div id="abstract3" style="display:none;">
@@ -88,9 +83,7 @@ Presentations: NEUDC (2023), AMES (2023), PEA(2023)
   
 Selected Work in Progress
 ======
-**Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development**
-
-Joint with Fei Teng and Yuan Zhang
+**Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development** (with Fei Teng and Yuan Zhang)
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
 <div id="abstract4" style="display:none;">
