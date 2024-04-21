@@ -23,13 +23,13 @@ Joint with Costas Cavounidis, Kevin Lang, and Raghav Malhotra. Under submission
 
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-<div id="abstractContent" style="display:none;">
+<div id="abstract1" style="display:none;">
   <p>Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</p>
 </div>
 
 <script>
 function toggleAbstract() {
-  var abstract = document.getElementById('abstractContent');
+  var abstract = document.getElementById('abstract1');
   if (abstract.style.display === 'none' || abstract.style.display === '') {
     abstract.style.display = 'block';
   } else {
@@ -46,13 +46,13 @@ Joint with Shiyi Sun and Yuan Zhang
 
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-<div id="abstractContent" style="display:none;">
+<div id="abstract2" style="display:none;">
   <p>The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like ``Missing Girls'' and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.</p>
 </div>
 
 <script>
 function toggleAbstract() {
-  var abstract = document.getElementById('abstractContent');
+  var abstract = document.getElementById('abstract2');
   if (abstract.style.display === 'none' || abstract.style.display === '') {
     abstract.style.display = 'block';
   } else {
@@ -69,13 +69,13 @@ Presentations: SEHO (2024), NBER conference on Fertility and Declining Populatio
 Joint with Zhongyi Tang. Under submission
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-<div id="abstractContent" style="display:none;">
+<div id="abstract3" style="display:none;">
   <p>While growing literature has documented the distinct characteristics of aid projects from China and traditional donors, there remain gaps in understanding their differences in aid effectiveness. To fill this gap, this paper compares the impacts of Chinese and World Bank development projects on African local economies. Leveraging detailed, geocoded project data and a stacked difference-in-differences identification strategy, we find that Chinese infrastructure projects significantly increase nighttime light in the recipient regions, and the effects persist over time, while World Bank projects show no significant impact. Factors highlighted in the aid effectiveness literature, such as location and project-specific characteristics, could not fully explain the differences in project impacts. Furthermore, we rule out three potential mechanisms behind these differences: complementarity effects from follow-up projects, political favoritism, and implementation by Chinese companies. Finally, by utilizing Demographic and Health Surveys (DHS) data, we establish that both World Bank and Chinese infrastructure projects positively influence women's education attainment. </p>
 </div>
 
 <script>
 function toggleAbstract() {
-  var abstract = document.getElementById('abstractContent');
+  var abstract = document.getElementById('abstract3');
   if (abstract.style.display === 'none' || abstract.style.display === '') {
     abstract.style.display = 'block';
   } else {
@@ -93,13 +93,13 @@ Selected Work in Progress
 Joint with Fei Teng and Yuan Zhang
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-<div id="abstractContent" style="display:none;">
+<div id="abstract4" style="display:none;">
   <p>This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</p>
 </div>
 
 <script>
 function toggleAbstract() {
-  var abstract = document.getElementById('abstractContent');
+  var abstract = document.getElementById('abstract4');
   if (abstract.style.display === 'none' || abstract.style.display === '') {
     abstract.style.display = 'block';
   } else {
@@ -112,13 +112,13 @@ function toggleAbstract() {
 **Siblings and Migration**
 <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-<div id="abstractContent" style="display:none;">
+<div id="abstract5" style="display:none;">
   <p>This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</p>
 </div>
 
 <script>
 function toggleAbstract() {
-  var abstract = document.getElementById('abstractContent');
+  var abstract = document.getElementById('abstract5');
   if (abstract.style.display === 'none' || abstract.style.display === '') {
     abstract.style.display = 'block';
   } else {
