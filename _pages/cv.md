@@ -29,13 +29,13 @@ Intergenerational persistence is a well-documented phenomenon, yet the underlyin
 Working Papers
 ======
 **Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra)
+
 Under submission
 <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">Abstract</a>
 
 <div id="abstract1" style="display:none;">
   <p>Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</p>
 </div>
-
 
 [NBER Working Paper No.31743](https://www.nber.org/papers/w31743)
 
@@ -62,6 +62,7 @@ Presentations: NEUDC (2023), AMES (2023), PEA(2023)
 Selected Work in Progress
 ======
 **Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development** (with Fei Teng and Yuan Zhang)
+
 <a href="javascript:void(0);" onclick="toggleAbstract('abstract4')">Abstract</a>
 
 <div id="abstract4" style="display:none;">
@@ -69,6 +70,7 @@ Selected Work in Progress
 </div>
 
 **Siblings and Migration**
+
 <a href="javascript:void(0);" onclick="toggleAbstract('abstract5')">Abstract</a>
 
 <div id="abstract5" style="display:none;">
