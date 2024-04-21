@@ -20,11 +20,6 @@ function toggleAbstract(abstractId) {
 }
 </script>
 
-p {
-    margin-top: 20px; /* Space above the paragraph */
-    margin-bottom: 20px; /* Space below the paragraph */
-}
-
 Job Market Paper
 ======
 **Housing Price, Internal Migration, and Intergenerational Mobility**
