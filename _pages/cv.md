@@ -54,6 +54,8 @@ Under submission
   
 Selected Work in Progress
 ======
+**The Potency of the Pill: ED Medications and Marriage Stability** (with Daniele Paserman)<br/>
+
 **Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development** (with Fei Teng and Yuan Zhang)<br/>
 <a href="javascript:void(0);" onclick="toggleAbstract('abstract4')">Abstract</a><br/>
 <div id="abstract4" style="display:none;">
