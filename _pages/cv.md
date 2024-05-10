@@ -25,8 +25,8 @@ Job Market Paper
 **Housing Price, Internal Migration, and Intergenerational Mobility**
 
 Intergenerational persistence is a well-documented phenomenon, yet the underlying factors driving it are not fully understood, especially in developing contexts. This paper examines the impact of housing affordability on intergenerational mobility in China, focusing on the role of internal migration. Utilizing the Housing Purchase Restriction (HPR) policy as a natural experiment and leveraging an instrumental variable (IV) approach, I find that rising housing costs deter migration, and this effect is more pronounced for children from disadvantaged families. As a result, these children are less likely to migrate and subsequently earn lower incomes than their counterparts from more affluent families, leading to a reduction in intergenerational mobility. These findings are consistent with a migration decision model where housing expenses pose a greater burden for individuals from less affluent backgrounds, possibly due to credit constraints. The results highlight the importance of parental background in influencing children's access to labor market opportunities, even when education attainment and economic conditions are equal. This underscores the urgent need for policies tailored to alleviate housing affordability issues confronting potential migrants.
-
 <br/>
+
 Working Papers
 ======
 **Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra) [NBER Working Paper No.31743](https://www.nber.org/papers/w31743) <br/>
@@ -52,8 +52,8 @@ Under submission
 </div>
 
 <p id="special-text">Presentations: NEUDC (2023), AMES (2023), PEA(2023)</p>
-  
-  <br/>
+    <br/>
+
 Selected Work in Progress
 ======
 **The Potency of the Pill: ED Medications and Marriage Stability** (with Daniele Paserman)<br/>
@@ -69,8 +69,8 @@ Selected Work in Progress
 <div id="abstract5" style="display:none;">
   <p>This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</p>
 </div>
-
 <br/>
+
 Publications
 ======
 [“‘Going global’ and FDI inflows in China: ‘One Belt & One Road’ initiative as a quasi-natural
