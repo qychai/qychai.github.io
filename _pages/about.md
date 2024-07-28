@@ -15,4 +15,4 @@ I will be on the 2024-25 job market.
 
 Please find my [CV here](https://).
 
-Email: [@bu.edu](mailto:)
+Email: [qchai@bu.edu](mailto:qchai@bu.edu)
