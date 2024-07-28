@@ -49,9 +49,8 @@ This study investigates how the absence of reliable elderly support limits migra
 
 Publications
 ======
-[“‘Going global’ and FDI inflows in China: ‘One Belt & One Road’ initiative as a quasi-natural
-experiment.”](https://qychai.github.io/PersonalWebsite/paper1_going%20global_publish_version.pdf) *The World Economy*, 42(6) (2019): 1654-1672. (with Huiyao Chen and Changyuan
-Luo)
+<a href="https://qychai.github.io/PersonalWebsite/paper1_going%20global_publish_version.pdf" style="color:black" target="_blank">“‘Going global’ and FDI inflows in China: ‘One Belt & One Road’ initiative as a quasi-natural
+experiment.”</a> *The World Economy*, 42(6) (2019): 1654-1672. (with Huiyao Chen and Changyuan Luo)
 
 
 [“US Outward FDI: Is China a Special Host Country?”](https://qychai.github.io/PersonalWebsite/paper2_USFDItoCN.pdf) *Journal of Financial Research (in Chinese)*,
