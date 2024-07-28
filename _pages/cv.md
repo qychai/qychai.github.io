@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-
-
 <!-- note: function below was copied from ranzhuo17's research.md  -->
 [//]: This javascript is the button to show abstract 
 <script>
@@ -42,7 +40,7 @@ Under submission
 **Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China** (with Shiyi Sun and Yuan Zhang) <br/>
 <a href="#/" onclick="visib('abstract2')">Abstract</a> \| Draft Under Review
 <div id='abstract2' style="display: none; text-align: justify; line-height: 1.2" >
-The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like ``Missing Girls'' and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.</div>
+The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like "Missing Girls" and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.</div>
 <p id="special-text">Presentations: SEHO (2024), NBER conference on Fertility and Declining Population Growth in High-Income Countries (2024)</p>
 
 **The World Bank and China:  Comparing the Impacts of Their Development Projects in Africa** (with Zhongyi Tang) <br/>
