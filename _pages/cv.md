@@ -37,15 +37,16 @@ Selected Work in Progress
 **The Potency of the Pill: ED Medications and Marriage Stability** (with Daniele Paserman) <br/>
 
 **Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development** (with Fei Teng and Yuan Zhang) <br/>
-<a href="#/" onclick="visib('abstract4')">Abstract</a> \| Draft Under Review
+<a href="#/" onclick="visib('abstract4')">Abstract</a> \
 <div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
 This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</div>
 
 **Siblings and Migration** <br/>
-<a href="#/" onclick="visib('abstract5')">Abstract</a> \| Draft Under Review
+<a href="#/" onclick="visib('abstract5')">Abstract</a> \
 <div id='abstract5' style="display: none; text-align: justify; line-height: 1.2" >
 This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</div>
 
+<br/>
 
 Publications
 ======
