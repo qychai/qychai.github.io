@@ -15,7 +15,7 @@ Intergenerational persistence is a well-documented phenomenon, yet the underlyin
 Working Papers
 ======
 **Obsolescence Rents: Teamsters, Truckers, and Impending Innovations** (with Costas Cavounidis, Kevin Lang, and Raghav Malhotra) [NBER Working Paper No.31743](https://www.nber.org/papers/w31743) <br/>
-<a href="#/" onclick="visib('abstract1')">Abstract</a> \| [Draft]((https://www.nber.org/papers/w31743)) | Under Review
+<a href="#/" onclick="visib('abstract1')">Abstract</a> \| [Draft](https://www.nber.org/papers/w31743) | Under Review
 <div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
 Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</div>
 
