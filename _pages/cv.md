@@ -37,7 +37,7 @@ Selected Work in Progress
 **The Potency of the Pill: ED Medications and Marriage Stability** (with Daniele Paserman) <br/>
 
 **Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development** (with Fei Teng and Yuan Zhang) <br/>
-<a href="#/" onclick="visib('abstract4')">Abstract</a> 
+<a href="#/" onclick="visib('abstract4')">Abstract</a> | Draft Coming Soon
 <div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
 This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</div>
 
