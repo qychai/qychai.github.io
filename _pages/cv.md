@@ -23,7 +23,7 @@ Motivated by the advent of self-driving trucks, which will dramatically reduce d
 <a href="#/" onclick="visib('abstract2')">Abstract</a> \| Draft Under Review
 <div id='abstract2' style="display: none; text-align: justify; line-height: 1.2" >
 The deficit of men or women in a regional marriage market is a commonly observed phenomenon stemming from factors like "Missing Girls" and immigration. However, the impact of this deficit on marriage stability remains insufficiently understood. Leveraging provincial, census, and household survey data in China, we find that a higher male-to-female ratio increases divorce rates. Further analyses suggest that this impact is primarily driven by married women having more outside options. The effect is more pronounced in economies with greater income inequality, where there are more wealthy prospective partners. These findings highlight the significance of gender balance in stabilizing marriages.</div>
-<p id="special-text">Presentations: SEHO (2024), NBER conference on Fertility and Declining Population Growth in High-Income Countries (2024)</p>
+<p id="special-text">Presentations: NBER conference on Fertility and Declining Population Growth in High-Income Countries (2024), SEHO (2024), AMES (2024)</p>
 
 **The World Bank and China:  Comparing the Impacts of Their Development Projects in Africa** (with Zhongyi Tang) <br/>
 <a href="#/" onclick="visib('abstract3')">Abstract</a> \| Draft Under Review
