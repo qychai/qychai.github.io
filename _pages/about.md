@@ -13,6 +13,6 @@ My research interests are labor and development economics, with a focus on inter
 
 I will be on the 2024-25 job market. 
 
-Please find my [CV here](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf).
+Please find here my [CV](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf) and [Resume](https://).
 
 Email: [qchai@bu.edu](mailto:qchai@bu.edu)
