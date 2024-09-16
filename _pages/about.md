@@ -17,5 +17,5 @@ Please find here my [CV](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Ch
 
 Email: [qchai@bu.edu](mailto:qchai@bu.edu)
 
-#In my free time, I enjoy hiking, exercising and spending time with my friends.
+#In my free time, I enjoy exercising and spending time with friends. I have been practicing Pilates for five years.
 
