@@ -16,3 +16,6 @@ I will be on the 2024-25 job market.
 Please find here my [CV](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf) and [Resume](https://qychai.github.io/PersonalWebsite/Resume_Industry.pdf).
 
 Email: [qchai@bu.edu](mailto:qchai@bu.edu)
+
+#In my free time, I enjoy hiking, exercising and spending time with my friends.
+
