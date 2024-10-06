@@ -11,6 +11,8 @@ Job Market Paper
 
 This paper examines how housing affordability affects intergenerational mobility in China by influencing internal migration. Using the Housing Purchase Restriction (HPR) policy as a natural experiment and employing an instrumental variable (IV) approach, I find that rising housing costs deter migration, with a more pronounced effect on children from disadvantaged families. Consequently, these children are less likely to migrate and subsequently earn lower incomes than their counterparts from more affluent families, thereby reducing intergenerational mobility. These findings are consistent with a migration decision model where housing expenses disproportionately burden individuals from less affluent backgrounds. To further explore the policy implications, a bare-bone spatial equilibrium model is developed and estimated to evaluate the effects of various housing policies. Overall, the results underscore the crucial role of parental background in determining children’s access to labor market opportunities, even when educational attainment and economic conditions are held constant. 
 
+<p id="special-text">Presentations: ASSA/NAWM-ES (2025) (scheduled) </p>
+
 
 Working Papers
 ======
@@ -18,6 +20,7 @@ Working Papers
 <a href="#/" onclick="visib('abstract1')">Abstract</a> 
 <div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
 Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</div>
+<p id="special-text">Coverage: </p>
 
 - <a href="https://qychai.github.io/PersonalWebsite/paper4_sexratio_divorce.pdf" style="color:black" target="_blank">Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China</a> (with Shiyi Sun and Yuan Zhang) <br/>
 <a href="#/" onclick="visib('abstract2')">Abstract</a> \| Submitted
