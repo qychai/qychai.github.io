@@ -12,7 +12,7 @@ Job Market Paper
 This paper examines the role of housing affordability in shaping intergenerational mobility by affecting internal migration in China. It further explores how housing policies might address the challenges that rising housing costs pose for social mobility and inequality.
 To address the endogeneity of housing prices, I employ an instrumental variables approach, exploiting the Housing Purchase Restriction policy as a natural experiment. This policy limited the number of properties households could purchase in selected prefectures, thereby creating quasi-exogenous variation in housing price growth. I find that higher destination housing costs deter migration, with a more pronounced effect on individuals from disadvantaged families. As a result, these individuals earn lower incomes than their counterparts from more affluent backgrounds. Therefore, higher housing costs reduce intergenerational mobility. 
 Furthermore, to distinguish among destinations and evaluate the effects of various housing policies, I adopt a structural approach to complement the aggregate-level reduced-form results. Unlike the reduced-form analysis, the structural approach reveals that the impact varies across different destinations. Rent subsidies in megacities primarily increase migration among advantaged individuals than disadvantaged ones, thereby exacerbating income disparities. Conversely, policies targeting disadvantaged groups or offering non-targeted subsidies in non-megacities help increase migration for disadvantaged people and raise intergenerational mobility.
-<p id="special-text">Presentations: ASSA/NAWM-ES (2025) (scheduled) </p>
+<p id="special-text">Presentations: ASSA/NAWM-ES (2025)  </p>
 
 
 Working Papers
