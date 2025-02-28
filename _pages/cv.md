@@ -7,7 +7,7 @@ author_profile: true
 
 Job Market Paper
 ======
-**Housing Price, Internal Migration, and Intergenerational Mobility** <br/>
+<a href="https://qychai.github.io/PersonalWebsite/JMP_QingyuanChai.pdf" style="color:black" target="_blank">**Housing Price, Internal Migration, and Intergenerational Mobility** </a> <br/>
 
 This paper examines the role of housing affordability in shaping intergenerational mobility by affecting internal migration in China. It further explores how housing policies might address the challenges that rising housing costs pose for social mobility and inequality.
 To address the endogeneity of housing prices, I employ an instrumental variables approach, exploiting the Housing Purchase Restriction policy as a natural experiment. This policy limited the number of properties households could purchase in selected prefectures, thereby creating quasi-exogenous variation in housing price growth. I find that higher destination housing costs deter migration, with a more pronounced effect on individuals from disadvantaged families. As a result, these individuals earn lower incomes than their counterparts from more affluent backgrounds. Therefore, higher housing costs reduce intergenerational mobility. 
