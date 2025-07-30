@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site! I am a PhD candidate in Economics at Boston University.
+Welcome to my site! 
 
-My research interests are labor and development economics, with a focus on intergenerational mobility, migration, real estate, technology adoption, gender, and international aid.
+I am an economist with research interests in labor economics and applied microeconomics. My research agenda focuses on intergenerational mobility, migration, real estate, technology adoption, gender, and international aid.
 
-In Fall 2025, I will join NYU Shanghai as an Assistant Professor in Economics.
+I received my PhD in Economics from Boston University in 2025. In Fall 2025, I will join NYU Shanghai as an Assistant Professor in Economics.
 
 Please find here my [CV](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf).
 
-Email: [qchai@bu.edu](mailto:qchai@bu.edu)
+Email: [qchai@bu.edu](mailto:qingyuan.chai@nyu.edu)
 
 
 
