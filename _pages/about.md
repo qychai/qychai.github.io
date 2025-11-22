@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my site! 
 
-My research interests include labor economics and applied microeconomics. My current research focuses on intergenerational mobility, migration, gender, technology adoption, and international aid.
+I am an Assistant Professor in Economics at NYU Shanghai. I received my Ph.D. in economics from Boston University in 2025.
 
-I received my PhD in Economics from Boston University in 2025. In Fall 2025, I will join NYU Shanghai as an Assistant Professor in Economics.
+My research interests include labor economics and applied microeconomics. My current research focuses on intergenerational mobility, migration, gender, technology adoption, and international aid.
 
 Please find here my [CV](https://qychai.github.io/PersonalWebsite/CV_Qingyuan_Chai.pdf).
 
