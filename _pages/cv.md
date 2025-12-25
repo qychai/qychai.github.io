@@ -36,6 +36,13 @@ While growing literature has documented the distinct characteristics of aid proj
 <p id="special-text">Presentations: NEUDC (2023), AMES (2023), PEA(2023)</p>
 
 
+- <a href="https://qychai.github.io/PersonalWebsite/paper5_cotton_old.pdf" style="color:black" target="_blank">The Price of Cotton and Older Women’s Health: Evidence from China</a> (with Fei Teng and Yuan Zhang) <br/>
+<a href="#/" onclick="visib('abstract4')">Abstract</a> 
+<div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
+Population aging poses a major challenge for developing countries. Within this demographic shift, older women are particularly vulnerable due to persistent socioeconomic disadvantages, yet we know surprisingly little about what improves their health. While existing research shows that female-biased labor market opportunities can enhance women’s well-being, it remains unclear whether these benefits persist into old age. This study addresses these gaps by examining cotton cultivation—one of the world’s most important cash crops that relies heavily on female labor—to study the long-term effects of women’s employment opportunities on late-life health. Using a difference-in-differences design that exploits China’s 1989 cotton price reform, we find that increases in cotton cultivation significantly improved the general health of older women in rural China. Evidence from multiple individual-level surveys shows that women in cotton-suitable counties experience better health in later life. We identify three mechanisms: higher dowries at marriage, greater household bargaining power, and increased co-residence with adult children. These findings highlight how gendered labor demand shapes women’s long-term well-being and have important implications for pension and health-care systems in rapidly aging developing economies.</div>
+<p id="special-text"></p>
+
+
 Selected Work in Progress
 ======
 - The Potency of the Pill: ED Medications and Marriage Stability (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
