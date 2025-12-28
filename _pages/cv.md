@@ -36,9 +36,17 @@ While growing literature has documented the distinct characteristics of aid proj
 <p id="special-text">Presentations: NEUDC (2023), AMES (2023), PEA(2023)</p>
 
 
-- <a href="https://qychai.github.io/PersonalWebsite/paper5_cotton_old.pdf" style="color:black" target="_blank">The Price of Cotton and Older Women’s Health: Evidence from China</a> (with Fei Teng and Yuan Zhang) <br/>
+- <a href="https://qychai.github.io/PersonalWebsite/paper6_pill.pdf" style="color:black" target="_blank">The Potency of the Pill: ED Medications and Marriage Stability</a> (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
 <a href="#/" onclick="visib('abstract4')">Abstract</a> 
 <div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
+There has been recent interest in the phenomenon of ``gray divorce:'' an increase in the divorce rates of older couples, as overall divorce rates have been trending downwards. In this paper, we study whether technological developments in the treatment of Erectile Dysfunction (ED) may have contributed to these changing patterns in marital stability. We use a large dataset with the universe of prescription drugs for individuals covered by employer-sponsored health insurance to create a state-level panel dataset on utilization and prices of ED medications between 2008 and 2018. We link these data to individuals in the American Community Survey based on their state of residence and survey year, and estimate the effect of ED medication use on marital stability. We find that divorce rates among men aged 50--64 are negatively associated with ED medication prices and positively associated with ED medication utilization.
+Placebo tests using other medications prevalent among older men show no relationship with divorce rates. The findings suggest that increased access to ED medications can explain about 18\% of the relative increase in divorce rates of older men. </div>
+<p id="special-text"></p>
+
+
+- <a href="https://qychai.github.io/PersonalWebsite/paper5_cotton_old.pdf" style="color:black" target="_blank">The Price of Cotton and Older Women’s Health: Evidence from China</a> (with Fei Teng and Yuan Zhang) <br/>
+<a href="#/" onclick="visib('abstract6')">Abstract</a> 
+<div id='abstract6' style="display: none; text-align: justify; line-height: 1.2" >
 Population aging poses a major challenge for developing countries. Within this demographic shift, older women are particularly vulnerable due to persistent socioeconomic disadvantages, yet we know surprisingly little about what improves their health. While existing research shows that female-biased labor market opportunities can enhance women’s well-being, it remains unclear whether these benefits persist into old age. This study addresses these gaps by examining cotton cultivation—one of the world’s most important cash crops that relies heavily on female labor—to study the long-term effects of women’s employment opportunities on late-life health. Using a difference-in-differences design that exploits China’s 1989 cotton price reform, we find that increases in cotton cultivation significantly improved the general health of older women in rural China. Evidence from multiple individual-level surveys shows that women in cotton-suitable counties experience better health in later life. We identify three mechanisms: higher dowries at marriage, greater household bargaining power, and increased co-residence with adult children. These findings highlight how gendered labor demand shapes women’s long-term well-being and have important implications for pension and health-care systems in rapidly aging developing economies.</div>
 <p id="special-text"></p>
 
@@ -48,8 +56,8 @@ Selected Work in Progress
 - The Potency of the Pill: ED Medications and Marriage Stability (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
 
 - Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development (with Fei Teng and Yuan Zhang) <br/>
-<a href="#/" onclick="visib('abstract4')">Abstract</a> | Draft Coming Soon
-<div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
+<a href="#/" onclick="visib('abstract7')">Abstract</a> | Draft Coming Soon
+<div id='abstract7' style="display: none; text-align: justify; line-height: 1.2" >
 This study examines the mixed effects of cotton cultivation on rural girls’ development in China. While cotton-related activities offer economic benefits, our analysis shows both positive and negative impacts on girls. Cotton planting improves basic education but limits higher education opportunities. It mitigates the “missing women” phenomenon but negatively affects rural girls’ health and cognitive and non-cognitive skills. The findings highlight the need for policy shifts beyond job creation, advocating for comprehensive changes to address gender discrimination and promote the holistic development of rural girls.</div>
 
 - Siblings and Migration <br/>
