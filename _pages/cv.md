@@ -39,8 +39,8 @@ While growing literature has documented the distinct characteristics of aid proj
 - <a href="https://qychai.github.io/PersonalWebsite/paper6_pill.pdf" style="color:black" target="_blank">The Potency of the Pill: ED Medications and Marriage Stability</a> (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
 <a href="#/" onclick="visib('abstract4')">Abstract</a> 
 <div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
-There has been recent interest in the phenomenon of ``gray divorce:'' an increase in the divorce rates of older couples, as overall divorce rates have been trending downwards. In this paper, we study whether technological developments in the treatment of Erectile Dysfunction (ED) may have contributed to these changing patterns in marital stability. We use a large dataset with the universe of prescription drugs for individuals covered by employer-sponsored health insurance to create a state-level panel dataset on utilization and prices of ED medications between 2008 and 2018. We link these data to individuals in the American Community Survey based on their state of residence and survey year, and estimate the effect of ED medication use on marital stability. We find that divorce rates among men aged 50--64 are negatively associated with ED medication prices and positively associated with ED medication utilization.
-Placebo tests using other medications prevalent among older men show no relationship with divorce rates. The findings suggest that increased access to ED medications can explain about 18\% of the relative increase in divorce rates of older men. </div>
+There has been recent interest in the phenomenon of "gray divorce:" an increase in the divorce rates of older couples, as overall divorce rates have been trending downwards. In this paper, we study whether technological developments in the treatment of Erectile Dysfunction (ED) may have contributed to these changing patterns in marital stability. We use a large dataset with the universe of prescription drugs for individuals covered by employer-sponsored health insurance to create a state-level panel dataset on utilization and prices of ED medications between 2008 and 2018. We link these data to individuals in the American Community Survey based on their state of residence and survey year, and estimate the effect of ED medication use on marital stability. We find that divorce rates among men aged 50-64 are negatively associated with ED medication prices and positively associated with ED medication utilization.
+Placebo tests using other medications prevalent among older men show no relationship with divorce rates. The findings suggest that increased access to ED medications can explain about 18% of the relative increase in divorce rates of older men. </div>
 <p id="special-text"></p>
 
 
@@ -63,6 +63,7 @@ This study examines the mixed effects of cotton cultivation on rural girls’ de
 <div id='abstract5' style="display: none; text-align: justify; line-height: 1.2" >
 This study investigates how the absence of reliable elderly support limits migration in developing countries. Utilizing the occurrence of first-born twins as a natural experiment in fertility demonstrates that an increased number of siblings boosts migration prospects, especially when parents are older or require assistance with daily tasks. The findings indicate that in the absence of adequate social security systems, fertility-reducing policies also impact migration patterns. This dynamic may diminish the positive effects on child quality from lower fertility rates, resulting in human capital misallocation.</div>
 
+<p id="special-text"></p>
 
 Publications
 ======
