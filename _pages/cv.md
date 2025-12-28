@@ -53,8 +53,6 @@ Population aging poses a major challenge for developing countries. Within this d
 
 Selected Work in Progress
 ======
-- The Potency of the Pill: ED Medications and Marriage Stability (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
-
 - Hope or Trap: Navigating the Dual Impact of Cotton Cultivation on Rural Girls’ Development (with Fei Teng and Yuan Zhang) <br/>
 <a href="#/" onclick="visib('abstract7')">Abstract</a> | Draft Coming Soon
 <div id='abstract7' style="display: none; text-align: justify; line-height: 1.2" >
