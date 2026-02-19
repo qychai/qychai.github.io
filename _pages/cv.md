@@ -14,7 +14,7 @@ Motivated by the advent of self-driving trucks, which will dramatically reduce d
 <p id="special-text">Coverage: <a href="https://www.npr.org/2023/11/08/1197954539/never-have-i-ever-luddites-obsolescence" target="_blank" style="color:black;">National Public Radio</a>, <a href="https://fortune.com/2024/02/12/ai-artificial-intelligence-jobs-higher-pay-wages-threaten/" target="_blank" style="color:black;">Fortune</a> </p>
 
 - <a href="" style="color:black" target="_blank">Housing Price, Internal Migration, and Intergenerational Mobility (New draft coming soon)</a>  <br/>
-<a href="#/" onclick="visib('abstract1')">Abstract</a> \| Submitted
+<a href="#/" onclick="visib('abstract1')">Abstract</a> 
 <div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
 This paper examines the role of housing affordability in shaping intergenerational mobility by affecting internal migration in China. It further explores how housing policies might address the challenges that rising housing costs pose for social mobility and inequality.
 To address the endogeneity of housing prices, I employ an instrumental variables approach, exploiting the Housing Purchase Restriction policy as a natural experiment. This policy limited the number of properties households could purchase in selected prefectures, thereby creating quasi-exogenous variation in housing price growth. I find that higher destination housing costs deter migration, with a more pronounced effect on individuals from disadvantaged families. As a result, these individuals earn lower incomes than their counterparts from more affluent backgrounds. Therefore, higher housing costs reduce intergenerational mobility. 
