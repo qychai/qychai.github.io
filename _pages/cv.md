@@ -5,16 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-Job Market Paper
-======
-**Housing Price, Internal Migration, and Intergenerational Mobility (New draft coming soon)** <br/>
-
-This paper examines the role of housing affordability in shaping intergenerational mobility by affecting internal migration in China. It further explores how housing policies might address the challenges that rising housing costs pose for social mobility and inequality.
-To address the endogeneity of housing prices, I employ an instrumental variables approach, exploiting the Housing Purchase Restriction policy as a natural experiment. This policy limited the number of properties households could purchase in selected prefectures, thereby creating quasi-exogenous variation in housing price growth. I find that higher destination housing costs deter migration, with a more pronounced effect on individuals from disadvantaged families. As a result, these individuals earn lower incomes than their counterparts from more affluent backgrounds. Therefore, higher housing costs reduce intergenerational mobility. 
-Furthermore, to distinguish among destinations and evaluate the effects of various housing policies, I adopt a structural approach to complement the aggregate-level reduced-form results. Unlike the reduced-form analysis, the structural approach reveals that the impact varies across different destinations. Rent subsidies in megacities primarily increase migration among advantaged individuals than disadvantaged ones, thereby exacerbating income disparities. Conversely, policies targeting disadvantaged groups or offering non-targeted subsidies in non-megacities help increase migration for disadvantaged people and raise intergenerational mobility.
-<p id="special-text">Presentations: ASSA/NAWM-ES (2025)  </p>
-
-
 Working Papers
 ======
 - <a href="https://www.nber.org/papers/w31743" style="color:black" target="_blank">Obsolescence Rents: Teamsters, Truckers, and Impending Innovations</a> (with [Costas Cavounidis](https://warwick.ac.uk/fac/soc/economics/staff/ccavounidis/), [Kevin Lang](https://sites.bu.edu/kevinlang/), and [Raghav Malhotra](https://www.raghavmalhotra.net/)) [NBER Working Paper No.31743](https://www.nber.org/papers/w31743) <br/>
@@ -22,6 +12,14 @@ Working Papers
 <div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
 Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</div>
 <p id="special-text">Coverage: <a href="https://www.npr.org/2023/11/08/1197954539/never-have-i-ever-luddites-obsolescence" target="_blank" style="color:black;">National Public Radio</a>, <a href="https://fortune.com/2024/02/12/ai-artificial-intelligence-jobs-higher-pay-wages-threaten/" target="_blank" style="color:black;">Fortune</a> </p>
+
+- <a href="" style="color:black" target="_blank">Housing Price, Internal Migration, and Intergenerational Mobility (New draft coming soon)</a>  <br/>
+<a href="#/" onclick="visib('abstract1')">Abstract</a> \| Submitted
+<div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
+This paper examines the role of housing affordability in shaping intergenerational mobility by affecting internal migration in China. It further explores how housing policies might address the challenges that rising housing costs pose for social mobility and inequality.
+To address the endogeneity of housing prices, I employ an instrumental variables approach, exploiting the Housing Purchase Restriction policy as a natural experiment. This policy limited the number of properties households could purchase in selected prefectures, thereby creating quasi-exogenous variation in housing price growth. I find that higher destination housing costs deter migration, with a more pronounced effect on individuals from disadvantaged families. As a result, these individuals earn lower incomes than their counterparts from more affluent backgrounds. Therefore, higher housing costs reduce intergenerational mobility. 
+Furthermore, to distinguish among destinations and evaluate the effects of various housing policies, I adopt a structural approach to complement the aggregate-level reduced-form results. Unlike the reduced-form analysis, the structural approach reveals that the impact varies across different destinations. Rent subsidies in megacities primarily increase migration among advantaged individuals than disadvantaged ones, thereby exacerbating income disparities. Conversely, policies targeting disadvantaged groups or offering non-targeted subsidies in non-megacities help increase migration for disadvantaged people and raise intergenerational mobility.</div>
+<p id="special-text">Presentations: ASSA/NAWM-ES (2025)  </p>
 
 - <a href="https://qychai.github.io/PersonalWebsite/paper4_sexratio_divorce.pdf" style="color:black" target="_blank">Gender Imbalance, Marriage Stability, and Divorce Rate: Evidence from China</a> (with Shiyi Sun and Yuan Zhang) <br/>
 <a href="#/" onclick="visib('abstract2')">Abstract</a> \| Submitted
