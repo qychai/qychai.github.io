@@ -13,6 +13,15 @@ Working Papers
 Motivated by the advent of self-driving trucks, which will dramatically reduce demand for truck drivers, we consider large, permanent shocks to individual occupations whose arrival date is uncertain. Using a bare-bones overlapping generations model, we examine an occupation facing obsolescence. Workers are compensated for entering the occupation - receiving what we dub obsolescence rents - with fewer and older workers remaining in the occupation. We investigate the market for teamsters at the dawn of the automotive truck as an a propos parallel to truckers themselves. As predicted by the model, as the widespread adoption of trucks crested the horizon, teamster wages rose, the number of teamsters fell, and the occupation became ‘grayer’. Older workers became more likely to enter and less likely to exit work as teamsters. As permitted, but not required, by the model, the number of older teamsters grew as a fraction of older workers, a finding we replicate for seamstresses and milliners at a similar stage.</div>
 <p id="special-text">Coverage: <a href="https://www.npr.org/2023/11/08/1197954539/never-have-i-ever-luddites-obsolescence" target="_blank" style="color:black;">National Public Radio</a>, <a href="https://fortune.com/2024/02/12/ai-artificial-intelligence-jobs-higher-pay-wages-threaten/" target="_blank" style="color:black;">Fortune</a> </p>
 
+
+- <a href="https://qychai.github.io/PersonalWebsite/paper6_pill.pdf" style="color:black" target="_blank">The Potency of the Pill: ED Medications and Marital Stability</a> (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
+<a href="#/" onclick="visib('abstract4')">Abstract</a> 
+<div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
+There has been recent interest in the phenomenon of "gray divorce:" an increase in the divorce rates of older couples, as overall divorce rates have been trending downwards. In this paper, we study whether technological developments in the treatment of Erectile Dysfunction (ED) may have contributed to these changing patterns in marital stability. We use a large dataset with the universe of prescription drugs for individuals covered by employer-sponsored health insurance to create a state-level panel dataset on utilization and prices of ED medications between 2008 and 2018. We link these data to individuals in the American Community Survey based on their state of residence and survey year, and estimate the effect of ED medication use on marital stability. We find that divorce rates among men aged 50-64 are negatively associated with ED medication prices and positively associated with ED medication utilization.
+Placebo tests using other medications prevalent among older men show no relationship with divorce rates. The findings suggest that increased access to ED medications can explain about 18% of the relative increase in divorce rates of older men. </div>
+<p id="special-text">Presentations: SEHO (2026), NASM (2026), AMES (2026)</p>
+
+
 - <a href="" style="color:black" target="_blank">Housing Price, Internal Migration, and Intergenerational Mobility (New draft coming soon)</a>  <br/>
 <a href="#/" onclick="visib('abstract1')">Abstract</a> 
 <div id='abstract1' style="display: none; text-align: justify; line-height: 1.2" >
@@ -34,12 +43,6 @@ While growing literature has documented the distinct characteristics of aid proj
 <p id="special-text">Presentations: NEUDC (2023), AMES (2023), PEA(2023)</p>
 
 
-- <a href="https://qychai.github.io/PersonalWebsite/paper6_pill.pdf" style="color:black" target="_blank">The Potency of the Pill: ED Medications and Marriage Stability</a> (with [Daniele Paserman](https://sites.google.com/view/paserman)) <br/>
-<a href="#/" onclick="visib('abstract4')">Abstract</a> 
-<div id='abstract4' style="display: none; text-align: justify; line-height: 1.2" >
-There has been recent interest in the phenomenon of "gray divorce:" an increase in the divorce rates of older couples, as overall divorce rates have been trending downwards. In this paper, we study whether technological developments in the treatment of Erectile Dysfunction (ED) may have contributed to these changing patterns in marital stability. We use a large dataset with the universe of prescription drugs for individuals covered by employer-sponsored health insurance to create a state-level panel dataset on utilization and prices of ED medications between 2008 and 2018. We link these data to individuals in the American Community Survey based on their state of residence and survey year, and estimate the effect of ED medication use on marital stability. We find that divorce rates among men aged 50-64 are negatively associated with ED medication prices and positively associated with ED medication utilization.
-Placebo tests using other medications prevalent among older men show no relationship with divorce rates. The findings suggest that increased access to ED medications can explain about 18% of the relative increase in divorce rates of older men. </div>
-<p id="special-text"></p>
 
 
 Selected Work in Progress
